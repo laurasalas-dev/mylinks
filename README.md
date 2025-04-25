@@ -1,1 +1,2 @@
 # mylinks
+Mylinks es un proyecto personal en el que estoy aprendiendo las bases de HTML, CSS, Git y GitHub. Mi objetivo es crear una plataforma sencilla para organizar y compartir enlaces de manera eficiente. A través de este proyecto, estoy mejorando mis habilidades en desarrollo web y familiarizándome con herramientas de control de versiones, mientras exploro cómo estructurar contenido en la web.
